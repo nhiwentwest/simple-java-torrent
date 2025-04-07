@@ -1,4 +1,4 @@
-# Java BitTorrent Client
+# Java BitTorrent Application
 
 A Java implementation of a BitTorrent client that supports:
 - Multi-peer download
